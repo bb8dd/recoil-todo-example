@@ -1,5 +1,5 @@
 # React + TS + Recoil / TodoList
-This repository is the same example, just replacing Typescript and CRA with vite in [Recoil's todo-example](https://github.com/facebookexperimental/Recoil/tree/a37a0318aa118e52e8bd39f2338ca653ffe8ae88/packages-ext/todo-example).
+This repo is the same example from [Recoil's todo-example](https://github.com/facebookexperimental/Recoil/tree/a37a0318aa118e52e8bd39f2338ca653ffe8ae88/packages-ext/todo-example), adding Typescript and replacing CRA with vite.
 
 # Env
 Vite template React+TS + Recoil 
